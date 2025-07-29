@@ -1,5 +1,4 @@
-# ⚡ EMULATOR-SCRIPTS
-
+# ⚡EMUl8-TOOLS
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=🎮+LEVEL+UP+YOUR+RETRO+GAMING;⚡+TRACK+HIGH+SCORES+AUTOMATICALLY;📊+ANALYZE+YOUR+GAMEPLAY;🌟+WORKS+WITH+ANY+EMULATOR" alt="Dynamic Header" />
