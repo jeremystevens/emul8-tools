@@ -1,0 +1,12 @@
+# Core
+rich
+python-magic
+
+# For optional GPU SHA-1 hashing
+cupy
+
+# Optional (if you plan to use Pillow for image previews)
+pillow
+
+# Optional GUI (for future CustomTkinter interface)
+customtkinter
