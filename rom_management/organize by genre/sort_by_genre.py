@@ -1,5 +1,5 @@
 """ 
-Filename: sort_by_genre3.py
+Filename: sort_by_genre.py
 Description: 
     Multi-threaded ROM organizer that matches ROM files to genres using XML metadata.
     It creates cleaned filename variations, performs aggressive string matching,
